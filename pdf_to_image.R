@@ -2,6 +2,8 @@ install.packages("pdftools")
 
 library(pdftools)
 
+# Edit Path
+# 编辑路径
 pdf_path <- "something.pdf"
 image_path <- "something.jpg"
 
